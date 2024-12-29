@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|c:\\users\\musap\\desktop\\projecta\\unity\\platformparkur1\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|c:\\users\\musap\\desktop\\projecta\\unity\\platformparkur1\\assets\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|c:\\users\\musap\\desktop\\projecta\\unity\\platformparkur1\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\karanahtar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\karanahtar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\torch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\z\u0131platans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\z\u0131platans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\ge\u00E7ilebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ge\u00E7ilebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\olummanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\olummanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\dashblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dashblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\miniplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\dashcristal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dashcristal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\z_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\z_dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\tuzakliduvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tuzakliduvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\surelibloklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\surelibloklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\olumculnesne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\olumculnesne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\movingp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\assets\\scripts\\h_\u00F6l\u00FCmc\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BAA3BE-6989-8627-C0A8-7D0575672E21}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\h_\u00F6l\u00FCmc\u00FCl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "karanahtar.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\karanahtar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\karanahtar.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\karanahtar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\karanahtar.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:42:49.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:06:07.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:48:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:10:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovementPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MovementPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementPlayer.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MovementPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementPlayer.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAowE8BAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:51:40.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ge\u00E7ilebilir.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Ge\u00E7ilebilir.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ge\u00E7ilebilir.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Ge\u00E7ilebilir.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ge\u00E7ilebilir.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:36:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Z\u0131platans.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Z\u0131platans.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Z\u0131platans.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Z\u0131platans.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Z\u0131platans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:19:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Torch.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Torch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Torch.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Torch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Torch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:32:49.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:27:13.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OlumManager.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\OlumManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OlumManager.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\OlumManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OlumManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:07:11.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Z_Dash.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Z_Dash.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Z_Dash.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Z_Dash.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Z_Dash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:57:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SelfDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelfDestroy.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelfDestroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:03:18.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dashCristal.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\dashCristal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\dashCristal.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\dashCristal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\dashCristal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:59:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiniPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MiniPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniPlatform.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MiniPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniPlatform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:45:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashBlok.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\DashBlok.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DashBlok.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\DashBlok.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DashBlok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:05:19.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:31:03.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OlumculNesne.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\OlumculNesne.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OlumculNesne.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\OlumculNesne.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OlumculNesne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:32:22.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:20:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TuzakliDuvar.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\TuzakliDuvar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TuzakliDuvar.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\TuzakliDuvar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TuzakliDuvar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:08:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SureliBloklar.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SureliBloklar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SureliBloklar.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\SureliBloklar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SureliBloklar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:10:04.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Key.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\Key.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:08:50.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovingP.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MovingP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingP.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\MovingP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:07:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "H_\u00D6l\u00FCmc\u00FCl.cs",
+              "DocumentMoniker": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\H_\u00D6l\u00FCmc\u00FCl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\H_\u00D6l\u00FCmc\u00FCl.cs",
+              "ToolTip": "C:\\Users\\musap\\Desktop\\projectA\\Unity\\platformParkur1\\Assets\\Scripts\\H_\u00D6l\u00FCmc\u00FCl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\H_\u00D6l\u00FCmc\u00FCl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:37:37.951Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
